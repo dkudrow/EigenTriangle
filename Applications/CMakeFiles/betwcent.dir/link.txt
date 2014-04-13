@@ -1,0 +1,1 @@
+mpicxx   -std=c++11 -DNDEBUG -w -DGRAPH_GENERATOR_SEQ -O2 -DMPICH_IGNORE_CXX_SEEK    CMakeFiles/betwcent.dir/BetwCent.o  -o betwcent -rdynamic ../libCommGridlib.a ../libMPITypelib.a ../libMemoryPoollib.a 

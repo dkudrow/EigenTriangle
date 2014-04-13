@@ -1,0 +1,1 @@
+mpicxx   -std=c++11 -DNDEBUG -w -DGRAPH_GENERATOR_SEQ -O2 -DMPICH_IGNORE_CXX_SEEK    CMakeFiles/fmis.dir/FilteredMIS.o  -o fmis -rdynamic ../libCommGridlib.a ../libMPITypelib.a ../libMemoryPoollib.a ../graph500-1.2/generator/libGraphGenlib.a 

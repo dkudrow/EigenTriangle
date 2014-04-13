@@ -1,0 +1,23 @@
+Multiplication_Test 0 0
+Reduction_Test 0 0
+Iterator_Test 0 0
+Transpose_Test 0 0
+Indexing_Test 0 0
+SpAsgn_Test 0 0
+GalerkinNew_Test 0 0
+FindSparse_Test 0 0
+BetwCent_Test 0 0
+TopDownBFS_Test 1 8.99952
+DirOptBFS_Test 1 11.6134
+FilteredBFS_Test 1 9.16253
+FMIS_Test 1 9.48271
+---
+Multiplication_Test
+Reduction_Test
+Iterator_Test
+Transpose_Test
+Indexing_Test
+SpAsgn_Test
+GalerkinNew_Test
+FindSparse_Test
+BetwCent_Test
